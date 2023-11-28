@@ -1,4 +1,4 @@
-const api_url = `https://api.themoviedb.org/3/movie/popular?&api_key=487b92ab203942469fb2a6052ce57644`;
+const api_url = `https://api.themoviedb.org/3/movie/popular?&api_key=487b92ab203942469fb2a6052ce57644&page=1`;
 const img_path = `https://image.tmdb.org/t/p/w500`;
 const search_api = `https://api.themoviedb.org/3/search/movie?&api_key=487b92ab203942469fb2a6052ce57644&query="`;
 
